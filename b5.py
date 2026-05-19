@@ -1,9 +1,9 @@
 # Cho ví dụ rõ ràng ở phần nhắc nhập để người dùng không gõ nhầm chữ
-raw_name = input("- Nhập họ và tên của bạn (Ví dụ: Nguyen Van A): ")
-raw_id = input("- Nhập mã bệnh nhân của bạn (Ví dụ: BN102): ")
+raw_name = input("- Nhập họ và tên (Ví dụ: Nguyen Van A): ")
+raw_id = input("- Nhập mã bệnh nhân (Ví dụ: BN102): ")
 raw_temp = input("- Nhập nhiệt độ cơ thể (Chỉ gõ số, ví dụ: 36.5 hoặc 37): ")
-raw_heart = input("- Nhập số nhịp tim của bạn (Chỉ gõ số, ví dụ: 80): ")
-raw_weight = input("- Nhập số cân nặng của bạn (Chỉ gõ số, ví dụ: 60.5): ")
+raw_heart = input("- Nhập số nhịp tim (Chỉ gõ số, ví dụ: 80): ")
+raw_weight = input("- Nhập số cân nặng (Chỉ gõ số, ví dụ: 60.5): ")
 
 # Nhập xong rồi tách dòng ra để ép kiểu
 patient_name = raw_name
